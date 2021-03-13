@@ -1,0 +1,9 @@
+160.0
+55.0
+true
+10
+21
+100
+f
+Healthy pulse = true
+Checking for abuse -- true
