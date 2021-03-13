@@ -12,7 +12,7 @@ public class Person {
 	int weeklyAlcholUnits = 10;
 	final int RWAL = 21; // RWAL - Recommended Weekly Alcohol Limit
 	int restPulse = 100;
-	char gender = 'm';
+	char gender = 'f';
 
 	public void checkPulse() {
 		boolean healthyPulse;
