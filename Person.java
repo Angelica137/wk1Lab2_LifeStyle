@@ -2,8 +2,8 @@
 /**
  * To demonstrate boolean.
  * 
- * @author (your name)
- * @version (a version number or a date)
+ * @author Angelica
+ * @version 13 March 2021
  */
 public class Person {
 	double cmHeight = 160;
