@@ -37,6 +37,7 @@ public class Person {
 		System.out.println(weeklyAlcholUnits);
 		System.out.println(RWAL);
 		System.out.println(restPulse);
+		System.out.println(gender);
 	}
 
 }
