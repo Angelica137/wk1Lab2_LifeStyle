@@ -9,9 +9,9 @@ public class Person {
 	double cmHeight = 160;
 	double kgWeight = 55;
 	boolean smoker = true;
-	int weeklyAlcholUnits = 50;
+	int weeklyAlcholUnits = 10;
 	final int RWAL = 21; // RWAL - Recommended Weekly Alcohol Limit
-	int restPulse = 260;
+	int restPulse = 100;
 
 	public void checkPulse() {
 		boolean healthyPulse;
