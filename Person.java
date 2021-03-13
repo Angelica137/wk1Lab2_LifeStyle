@@ -6,8 +6,8 @@
  * @version (a version number or a date)
  */
 public class Person {
-	double cmHeight;
-	double kgWeight;
+	double cmHeight = 160;
+	double kgWeight = 55;
 	boolean smoker = true;
 	int weeklyAlcholUnits = 50;
 	final int RWAL = 21; // RWAL - Recommended Weekly Alcohol Limit
